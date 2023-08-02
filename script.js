@@ -211,7 +211,7 @@ gsap.from(`#page4>#container>.elem`,{
         end:`60% 30%`,
         scroller:`#main`,
         scrub:2,
-        markers:true,
+        // markers:true,
        
     },
     // stagger:.2,
