@@ -89,9 +89,9 @@ margin-top: .5rem;
     top: 30%;
     
  }
- #prt2>#nrml:hover{
+ /* #prt2>#nrml:hover{
     /* color: transparent; */
- }
+ /* } */ */
  #prt2>#nrml:hover::before{
     /* top: 0; */
     height: 100%;
@@ -128,9 +128,9 @@ margin-top: .5rem;
     top: 30%;
     
  }
- #prt2>#clr:hover{
+ /* #prt2>#clr:hover{ */
     /* color: transparent; */
- }
+ /* } */
  #prt2>#clr:hover::before{
     /* top: 0; */
     height: 100%;
@@ -269,7 +269,7 @@ animation-iteration-count: infinite; */
     top: 40%;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: ;
+    /* grid-template-rows: ; */
     padding: 0 6vw;
     gap: .5rem;
  }
